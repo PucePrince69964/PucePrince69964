@@ -1,4 +1,5 @@
 ꒷꒦ ୨🧑‍💻୧ G A B R I E L ・ Y A G O ୨🧑‍💻୧ ꒱੭
+
 **Desenvolvedor Full Stack** | 18 anos | São Paulo - SP
 
 ---
