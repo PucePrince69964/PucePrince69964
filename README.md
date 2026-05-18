@@ -13,6 +13,8 @@
 
 ---
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/38609ee4-ee19-48d1-8c26-1996df9e3f8e"></img>
+
 ## 🛠️ Tech Stack
 
 ```HTML • CSS • JavaScript • TypeScript • React • Node.js • Arduino C • Python • Git```
