@@ -41,7 +41,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<div style="display: inline_block">
+<div style="display: inline_block; position: relative">
   <div style="background: blue" height="40" width="100">
     <img alt="LinkedIn" height="40" width="40" src="https://github.com/user-attachments/assets/99a03498-c5ee-40b9-8fef-7e4553069f36">
     <p style="font-family: "Arial, Helvetica, sans-serif; font: 20px">LinkedIn</p>
