@@ -13,8 +13,6 @@
 
 ---
 
-![Gráfico Radar](data:image/png;base64,...)
-
 ## 🛠️ Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
