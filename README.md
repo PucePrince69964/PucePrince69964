@@ -24,3 +24,14 @@
   <img align="center" alt="Gabriel-Arduino" height="40" width="40" src="https://images.seeklogo.com/logo-png/59/1/arduino-logo-png_seeklogo-593165.png">
   <img align="center" alt="Gabriel-IA" height="40" width="40" src="https://github.com/user-attachments/assets/54680d00-c505-4b19-93bd-f4622289c8ab">
 </div>
+
+---
+
+## 👥 Redes Sociais
+
+<div style="display: inline_block">
+  <div style="background: blue">
+    <img alt="LinkedIn" height="40" width="40" src="https://github.com/user-attachments/assets/99a03498-c5ee-40b9-8fef-7e4553069f36">
+    <p style="font-family: "Arial, Helvetica, sans-serif; font: 20px">LinkedIn</p>
+  </div>
+</div>
